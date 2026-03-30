@@ -1,2 +1,2 @@
 # Inha.univ. clone coding
-https://ggulpodo.github.io/inha/
+https://bbielo.github.io/inha/
